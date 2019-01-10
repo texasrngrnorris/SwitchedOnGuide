@@ -11,7 +11,7 @@ guide stuff here.
  Misc. Info about homebrew that may not be in the faq or guide
 
 # Links
-links to discords, and other websites related to switch homebrew.
+links to discords and other websites related to switch homebrew.
 
 
 
